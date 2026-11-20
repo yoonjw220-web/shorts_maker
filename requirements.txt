@@ -1,0 +1,7 @@
+yt-dlp
+faster-whisper
+pillow
+google-api-python-client
+google-auth-oauthlib
+anthropic
+opencv-python<5

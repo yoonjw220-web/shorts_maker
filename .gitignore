@@ -1,0 +1,15 @@
+# ── 비밀 정보 (절대 올리지 않음) ──
+API 키.txt
+*키*.txt
+.env
+token.json
+client_secret*.json
+
+# ── 용량 큰 결과물·캐시 ──
+output/
+__pycache__/
+*.pyc
+sfx/backups/
+
+# ── 남의 저작물 참고 이미지 ──
+래퍼/
